@@ -27,6 +27,10 @@ Guide:
 
 
 remove all example file in every directory before use.
+
+note:
+go to Makefile and edit the path to your SDL2 directory, if you use windows OS, you can clone my SDL2-library repo to C:/User/, so you can use and dont need to edit anything
+
 don't remove .dll files in bin/release/, we need it to compile and run the program
 
 
