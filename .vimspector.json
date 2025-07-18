@@ -1,0 +1,16 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "C:/Users/Admin/Desktop/game.exe", 
+        "args": [],
+        "cwd": "C:/Users/Admin/Desktop/my_sdl_game",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb"
+      }
+    }
+  }
+}
