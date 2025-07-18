@@ -4,4 +4,4 @@ Guide:
     typing "make clean" to rm all .exe and .o file,
 
 
-this folder struct is made by me and deepseek AI, you can edit the folder struct in Makefile, thanks
+this folder struct made by me and deepseek AI, you can edit the folder struct in Makefile, thanks
