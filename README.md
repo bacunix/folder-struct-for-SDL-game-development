@@ -1,13 +1,16 @@
 Guide:
-    typing "make" command to compiler code,
-    typing "make run" command" to run the game,
-    typing "make clean" to rm all .exe and .o file,
+    typing "make" command to compiler code.
+    typing "make run" command" to run the game.
+    typing "make clean" to rm all .exe and .o file.
     
 
     Header file (.hpp, .h) directory: include/
 
     
     .cpp file directory: src/
+
+    
+    program directory: bin/release/
 
 
     build file directory: build/
@@ -23,7 +26,8 @@ Guide:
 
 
 
-remove all example file in every directory before use 
+remove all example file in every directory before use.
+don't remove .dll files in bin/release/, we need it to compile and run the program
 
 
 this folder struct made by me and deepseek AI, you can edit the folder struct in Makefile, thanks
